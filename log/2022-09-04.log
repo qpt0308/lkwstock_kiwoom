@@ -1,0 +1,1812 @@
+2022-09-04 00:00:31,921 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:00:31,921 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:00:33,277 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:00:33,279 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:00:33,328 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:00:33,330 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:00:33,418 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:00:33,420 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:00:33,420 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:00:33,493 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:03,929 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:03,960 | db_connecter.py | 187 | DEBUG -> universe Table 삭제 완료..!!
+2022-09-04 00:01:03,961 | db_connecter.py | 170 | DEBUG ->  생성일자 TEXT, 종목코드 TEXT, 종목명 TEXT, 등락률 FLOAT(11), 현재가 FLOAT(11), 시가 FLOAT(11), 저가 FLOAT(11), 고가 FLOAT(11) name,type 인자열 생성완료..!!
+2022-09-04 00:01:03,975 | db_connecter.py | 181 | DEBUG -> universe Table 생성완료..!!
+2022-09-04 00:01:04,165 | db_connecter.py | 217 | DEBUG -> 453개 행 입력완료..!!
+2022-09-04 00:01:04,493 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:01:04.493211buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:01:04,493 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:04,538 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:04,625 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:04,627 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:04,680 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:04,682 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:04,729 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:04,730 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:05,016 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:05,063 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:05,136 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:05,140 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:05,184 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:05,218 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:05,288 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:05,463 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:05,481 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:05,482 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:05,499 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:05,513 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:05,599 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:05,618 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:05,652 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:05,750 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:05,797 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:05,841 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:05,958 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:05,960 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:05,989 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:06,007 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:06,066 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:06,153 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:06,229 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:06,278 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:06,380 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:06,404 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:06,453 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:06,526 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:06,589 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:06,662 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:06,680 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:06,695 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:06,796 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:06,814 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:06,860 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:06,904 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:06,998 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:07,038 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:07,099 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:07,112 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:07,141 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:07,229 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:07,231 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:07,304 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:07,307 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:07,337 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:07,381 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:07,543 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:07,606 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:07,657 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:07,681 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:07,702 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:07,704 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:07,842 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:07,844 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:07,874 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:07,892 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:07,922 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:08,128 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:08,205 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:08,222 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:08,339 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:08,346 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:08,369 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:08,471 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:08,504 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:08,517 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:08,592 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:08,657 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:08,709 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:08,711 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:08,821 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:08,863 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:09,026 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:09,057 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:09,101 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:09,105 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:09,134 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:09,235 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:09,312 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:09,345 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:09,347 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:09,510 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:09,566 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:09,623 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:09,656 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:10,012 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:10,013 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:10,028 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:10,046 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:10,048 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:10,081 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:10,134 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:10,257 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:10,360 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:10,424 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:10,433 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:10,451 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:10,494 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:10,537 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:10,584 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:12,195 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:12,245 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:12,369 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:12,454 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:12,501 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:12,528 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:12,571 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:12,575 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:14,170 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:14,220 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:14,254 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:14,279 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:14,343 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:14,385 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:14,456 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:14,461 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:15,864 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:15,880 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:15,900 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:15,902 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:15,942 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:15,944 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:15,968 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:15,985 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:17,224 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:17,271 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:17,342 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:17,376 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:17,423 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:17,450 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:17,478 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:17,481 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:18,973 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:19,037 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:19,086 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:19,141 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:19,207 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:19,216 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:19,258 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:19,275 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:21,413 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:21,445 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:21,469 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:21,504 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:21,521 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:21,523 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:21,547 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:21,565 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:23,012 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:23,030 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:23,037 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:23,039 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:23,045 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:23,060 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:23,103 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:23,120 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:24,648 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:24,681 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:24,688 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:24,690 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:24,788 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:24,861 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:24,889 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:24,892 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:01:26,571 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:01:26,618 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:01:26,654 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:01:26,679 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:01:26,741 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:01:26,745 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:01:26,842 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:01:26,861 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:03:41,248 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:03:41,248 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:03:42,706 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:03:42,708 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:03:42,757 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:03:42,759 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:03:42,861 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:03:42,863 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:03:42,863 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:03:42,937 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:03:43,356 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:03:43.356491buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:03:43,416 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:03:43,506 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:03:43,591 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:03:43,656 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:05:33,384 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:05:33,384 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:05:34,754 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:05:34,756 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:05:35,115 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:05:35,116 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:05:35,519 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:05:35,520 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:05:35,520 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:05:35,595 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:05:35,953 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:05:35.953569buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:05:35,965 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:05:36,045 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:05:36,073 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:05:36,105 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:05:36,164 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:05:36,181 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:05:36,268 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:05:36,286 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:06:23,043 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:06:23,043 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:06:24,293 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:06:24,296 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:06:24,655 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:06:24,656 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:06:25,075 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:06:25,076 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:06:25,077 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:06:25,136 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:06:25,525 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:06:25.525767buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:06:25,525 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:06:25,600 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:07:39,914 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:07:39,915 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:07:41,459 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:07:41,461 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:07:41,812 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:07:41,814 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:07:42,231 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:07:42,232 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:07:42,233 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:07:42,291 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:07:42,681 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:07:42.681549buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:07:42,696 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:07:42,861 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:07:43,325 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:07:43,430 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:07:43,850 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:07:43,940 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:07:43,970 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:07:44,016 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:08:42,692 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:08:42.692545buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.029921531677246094
+2022-09-04 00:08:47,569 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:08:47,629 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:08:48,153 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:08:48,302 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:08:48,811 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:08:48,885 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:08:48,960 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:08:49,006 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:09:43,958 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:09:43,958 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:09:45,383 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:09:45,385 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:09:45,607 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:09:45,609 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:09:45,816 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:09:45,818 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:09:45,818 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:09:46,190 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:09:46,549 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:09:46.549993buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:09:46,684 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:09:46,744 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:09:47,088 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:09:47,148 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:09:47,417 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:09:47,477 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:09:47,522 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:09:47,956 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:10:46,560 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:10:46.560965buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014959573745727539
+2022-09-04 00:10:52,261 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:10:52,335 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:10:52,695 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:10:52,829 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:10:53,024 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:10:53,099 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:10:53,128 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:10:53,518 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:11:19,341 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:11:19,342 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:11:20,840 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:11:20,842 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:11:21,050 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:11:21,052 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:11:21,245 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:11:21,246 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:11:21,247 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:11:21,635 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:11:21,993 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:11:21.993265buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:11:22,322 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:11:22,445 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:11:22,681 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:11:22,920 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:11:23,055 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:11:23,115 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:11:23,459 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:11:23,579 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:11:23,639 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:11:23,833 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:11:23,908 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:11:24,207 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:11:24,312 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:11:24,357 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:11:24,747 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:12:09,875 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:12:09,875 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:12:11,112 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:12:11,114 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:12:11,352 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:12:11,353 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:12:11,546 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:12:11,548 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:12:11,548 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:12:11,935 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:12:12,295 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:12:12.295011buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:13:17,269 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:13:17,269 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:13:18,724 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:13:18,728 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:13:18,964 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:13:18,966 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:13:19,159 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:13:19,160 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:13:19,161 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:13:19,549 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:13:19,924 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:13:19.924820buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:13:20,090 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:13:20,180 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:13:20,299 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:14:48,670 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:14:48,671 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:14:49,988 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:14:49,991 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:14:50,227 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:14:50,229 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:14:50,423 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:14:50,424 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:14:50,425 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:14:50,813 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:14:51,189 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:14:51.189150buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:14:51,354 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:14:51,414 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:14:51,699 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:14:51,759 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:14:52,013 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:14:52,149 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:14:52,208 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:14:52,630 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:15:51,194 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:15:51.194876buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014924287796020508
+2022-09-04 00:15:56,748 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:15:56,838 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:15:57,108 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:15:57,183 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:15:57,467 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:15:57,527 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:15:57,574 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:15:57,980 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:16:30,519 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:16:30,520 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:16:32,131 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:16:32,133 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:16:32,355 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:16:32,357 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:16:32,550 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:16:32,551 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:16:32,552 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:16:32,941 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:16:33,299 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:16:33.299140buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:17:33,299 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:17:33.299962buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.029921293258666992
+2022-09-04 00:18:33,300 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:18:33.300953buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0010023117065429688
+2022-09-04 00:19:33,301 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:19:33.301602buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:20:33,302 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:20:33.302210buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009965896606445312
+2022-09-04 00:21:33,304 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:21:33.304914buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:22:33,304 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:22:33.304954buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:23:33,305 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:23:33.305711buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:24:33,310 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:24:33.310600buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.01698923110961914
+2022-09-04 00:25:33,336 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:25:33.336908buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:26:33,337 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:26:33.337210buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009965896606445312
+2022-09-04 00:27:33,357 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:27:33.357314buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.029919147491455078
+2022-09-04 00:28:33,378 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:28:33.378282buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.029887676239013672
+2022-09-04 00:29:33,378 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:29:33.378353buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009970664978027344
+2022-09-04 00:30:33,378 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:30:33.378720buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:31:33,378 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:31:33.378983buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.000997304916381836
+2022-09-04 00:32:33,388 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:32:33.388061buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.01495361328125
+2022-09-04 00:33:33,397 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:33:33.397568buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014993906021118164
+2022-09-04 00:34:33,398 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:34:33.398847buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014960289001464844
+2022-09-04 00:35:33,404 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:35:33.404452buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.029918193817138672
+2022-09-04 00:36:33,404 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:36:33.404999buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009996891021728516
+2022-09-04 00:37:33,405 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:37:33.405274buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009970664978027344
+2022-09-04 00:38:33,417 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:38:33.417999buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014960289001464844
+2022-09-04 00:39:33,423 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:39:33.423123buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014958620071411133
+2022-09-04 00:40:33,434 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:40:33.434771buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.01495981216430664
+2022-09-04 00:41:33,444 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:41:33.444069buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:42:33,454 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:42:33.454676buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014961004257202148
+2022-09-04 00:43:33,455 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:43:33.455594buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009987354278564453
+2022-09-04 00:44:33,467 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:44:33.467111buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:45:33,467 | buySingle_th.py | 153 | DEBUG -> 2022-09-04 00:45:33.467325buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.00099945068359375
+2022-09-04 00:51:46,370 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:51:46,370 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:51:47,840 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:51:47,843 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:51:48,079 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:51:48,081 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:51:48,274 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:51:48,276 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:51:48,276 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:51:48,663 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:51:49,378 | Kiwoom.py | 26 | DEBUG -> 2022-09-04 00:51:49.378275 kiwoom 종료되었습니다.!!
+2022-09-04 00:51:49,564 | db_connecter.py | 27 | DEBUG -> 2022-09-04 00:51:49.564776 db_connecter 종료되었습니다.!!
+2022-09-04 00:54:32,342 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:54:32,343 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:54:32,603 | db_connecter.py | 27 | DEBUG -> 2022-09-04 00:54:32.603486 db_connecter 종료되었습니다.!!
+2022-09-04 00:54:33,228 | Kiwoom.py | 26 | DEBUG -> 2022-09-04 00:54:33.228814 kiwoom 종료되었습니다.!!
+2022-09-04 00:54:57,532 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:54:57,533 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:54:58,985 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:54:58,988 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:54:59,210 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:54:59,212 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:54:59,404 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:54:59,406 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:54:59,406 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:54:59,794 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:55:00,080 | db_connecter.py | 27 | DEBUG -> 2022-09-04 00:55:00.080920 db_connecter 종료되었습니다.!!
+2022-09-04 00:55:00,674 | Kiwoom.py | 26 | DEBUG -> 2022-09-04 00:55:00.674692 kiwoom 종료되었습니다.!!
+2022-09-04 00:55:00,863 | db_connecter.py | 27 | DEBUG -> 2022-09-04 00:55:00.863187 db_connecter 종료되었습니다.!!
+2022-09-04 00:58:27,448 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 00:58:27,449 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 00:58:28,914 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 00:58:28,917 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 00:58:29,138 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 00:58:29,140 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 00:58:29,348 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 00:58:29,350 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 00:58:29,350 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 00:58:29,723 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 00:58:30,051 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 00:58:30.051774buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 00:59:30,070 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 00:59:30.070004buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:00:30,070 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:00:30.070859buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009975433349609375
+2022-09-04 01:01:30,071 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:01:30.071033buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009996891021728516
+2022-09-04 01:02:30,073 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:02:30.073326buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014923572540283203
+2022-09-04 01:03:30,086 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:03:30.086469buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.014925003051757812
+2022-09-04 01:03:59,378 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:03:59,378 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:04:01,033 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:04:01,037 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:04:01,258 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:04:01,261 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:04:01,467 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:04:01,469 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:04:01,469 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:04:01,842 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:04:02,247 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:04:02.247116buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:04:44,360 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:04:44,360 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:04:45,771 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:04:45,775 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:04:46,072 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:04:46,073 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:04:46,386 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:04:46,387 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:04:46,388 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:04:46,761 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:06:24,421 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:06:24,422 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:06:25,882 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:06:25,886 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:06:26,121 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:06:26,123 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:06:26,331 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:06:26,331 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:06:26,332 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:06:26,705 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:06:34,601 | analysis_th.py | 153 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\analysis_th.py", line 142, in run
+    if self.pro_bool == True:
+AttributeError: 'analysis_th' object has no attribute 'pro_bool'
+
+2022-09-04 01:08:30,817 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:08:30,818 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:08:32,481 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:08:32,485 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:08:32,705 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:08:32,707 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:08:32,899 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:08:32,901 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:08:32,901 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:08:33,288 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:08:41,232 | analysis_th.py | 154 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\analysis_th.py", line 144, in run
+    self.process_count = self.process_count + 1
+AttributeError: 'analysis_th' object has no attribute 'process_count'
+
+2022-09-04 01:09:29,385 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:09:29,385 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:09:30,888 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:09:30,891 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:09:31,113 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:09:31,115 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:09:31,338 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:09:31,340 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:09:31,341 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:09:31,707 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:09:40,578 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 1.3823373317718506$$ 1차 분석완료$$..!!
+2022-09-04 01:15:05,258 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:15:05,259 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:15:06,983 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:15:06,985 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:15:07,224 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:15:07,225 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:15:07,434 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:15:07,436 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:15:07,436 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:15:07,808 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:15:15,549 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 0.4238607883453369$$ 1차 분석완료$$..!!
+2022-09-04 01:16:38,887 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:16:38,887 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:16:40,321 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:16:40,324 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:16:40,561 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:16:40,563 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:16:40,756 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:16:40,758 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:16:40,759 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:16:41,146 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:16:48,758 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 0.5894327163696289$$ 1차 분석완료$$..!!
+2022-09-04 01:21:15,243 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:21:15,244 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:21:16,764 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:21:16,768 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:21:17,004 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:21:17,006 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:21:17,199 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:21:17,201 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:21:17,201 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:21:17,588 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:21:17,962 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:21:17.962534buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:21:28,358 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 0.9743914604187012$$ 1차 분석완료$$..!!
+2022-09-04 01:22:17,996 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:22:17.996671buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.17752623558044434
+2022-09-04 01:23:53,336 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:23:53,336 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:23:54,813 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:23:54,816 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:23:55,052 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:23:55,054 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:23:55,247 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:23:55,249 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:23:55,250 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:23:55,636 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:23:56,072 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:23:56.072087buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:23:58,492 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:23:59,203 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:23:59,677 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:24:00,338 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:24:01,478 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:24:01,974 | sellSingle_th.py | 39 | DEBUG -> Traceback (most recent call last):
+  File "C:\pythonproject\lkwstock_kiwoom\execution\sellSingle_th.py", line 29, in reset_sell_regiser
+    sell_price = round(amou * (1 + self.rate_of_return))
+AttributeError: 'sellSingle_th' object has no attribute 'rate_of_return'
+
+2022-09-04 01:26:15,885 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:26:15,886 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:26:17,363 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:26:17,365 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:26:17,603 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:26:17,605 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:26:17,813 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:26:17,815 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:26:17,815 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:26:18,188 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:26:18,644 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:26:18.644045buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:26:18,688 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:18,778 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:20,142 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 01:26:20,591 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:20,712 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:21,340 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 01:26:21,784 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:21,830 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:22,220 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 01:26:22,602 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:22,692 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:23,063 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 01:26:23,465 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:23,528 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:23,943 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 01:26:24,322 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:24,384 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:24,930 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 01:26:25,320 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 01:26:25,485 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:25,576 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:26,058 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 01:26:26,610 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:26,718 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 1.1269519329071045$$ 1차 분석완료$$..!!
+2022-09-04 01:26:26,730 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:27,420 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 01:26:27,916 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:28,050 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:28,771 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 01:26:29,235 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:29,415 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:30,049 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 01:26:30,481 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:30,542 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:31,058 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 01:26:31,600 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:31,647 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:32,149 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 01:26:32,628 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 01:26:32,975 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:33,064 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:33,454 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 01:26:33,919 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 01:26:33,980 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 01:26:34,597 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 01:28:24,615 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 01:28:24,615 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 01:28:26,174 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 01:28:26,176 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 01:28:26,399 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 01:28:26,401 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 01:28:26,595 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 01:28:26,597 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 01:28:26,597 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 01:28:26,985 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 01:28:27,373 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 01:28:27.373632buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 01:28:37,936 | analysis_th.py | 146 | DEBUG -> $$분석시간$$ : 1.4740564823150635$$ 1차 분석완료$$..!!
+2022-09-04 08:54:36,686 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 08:54:36,687 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 08:54:38,193 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 08:54:38,196 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 08:54:38,433 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 08:54:38,435 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 08:54:38,627 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 08:54:38,628 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 08:54:38,629 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 08:54:39,017 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 08:55:11,563 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 08:55:11,570 | db_connecter.py | 170 | DEBUG ->  생성일자 TEXT, 종목코드 TEXT, 종목명 TEXT, 등락률 FLOAT(11), 현재가 FLOAT(11), 시가 FLOAT(11), 저가 FLOAT(11), 고가 FLOAT(11) name,type 인자열 생성완료..!!
+2022-09-04 08:55:11,583 | db_connecter.py | 181 | DEBUG -> universe Table 생성완료..!!
+2022-09-04 08:55:11,687 | db_connecter.py | 217 | DEBUG -> 202개 행 입력완료..!!
+2022-09-04 08:55:11,914 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 08:55:11.914629 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 08:55:19,831 | analysis_th.py | 147 | DEBUG -> $$분석시간$$ : 0.9634242057800293$$ 1차 분석완료$$..!!
+2022-09-04 08:56:11,938 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 08:56:11.938230 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 08:57:12,053 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 08:57:12.053068 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.1954789161682129
+2022-09-04 08:58:12,111 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 08:58:12.111568 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.059838056564331055
+2022-09-04 08:59:12,126 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 08:59:12.126311 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.08975791931152344
+2022-09-04 09:00:00,043 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:00,120 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:00,666 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:01,149 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:01,210 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:01,815 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:02,326 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:02,446 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:03,337 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:03,819 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:03,864 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:04,440 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:04,844 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:04,995 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:05,553 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:00:05,955 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:06,030 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:06,691 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 09:00:07,141 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 09:00:07,274 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:07,319 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:07,876 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:08,311 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:08,372 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:09,033 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:09,470 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:09,515 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:10,190 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:10,592 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:10,622 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:11,327 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:11,806 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:11,868 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:12,214 | buySingle_th.py | 155 | DEBUG -> 2022-09-04 09:00:12.214306 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.465756893157959
+2022-09-04 09:00:12,318 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:00:12,813 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:12,873 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:13,429 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 09:00:13,818 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 09:00:14,012 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:14,117 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:14,584 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:15,091 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:15,197 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:15,904 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:16,337 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:16,412 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:16,851 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:17,372 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:17,417 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:18,020 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:18,423 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:18,622 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:19,211 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:00:19,690 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:19,750 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:20,364 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 09:00:20,678 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 09:00:20,769 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:20,874 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:21,354 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:21,833 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:21,909 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:22,751 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:23,169 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:23,378 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:23,891 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:24,354 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:24,460 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:24,908 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:25,447 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:25,508 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:26,140 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:00:26,618 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:26,710 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:27,132 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 09:00:27,505 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 09:00:27,747 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:27,897 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:28,322 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:28,817 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:28,891 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:30,031 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:30,600 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:30,722 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:31,666 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:32,309 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:32,324 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:33,045 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:33,448 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:33,508 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:34,124 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:00:34,692 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:34,798 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:35,398 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -3.44, '현재가': 9840, '매입금액': 20200, '매매가능수량': 2}
+2022-09-04 09:00:35,801 | sellSingle_th.py | 34 | DEBUG -> 초기화 매도 주문  총 6개 보유종목중  6 개 접수완료..!! 
+2022-09-04 09:00:35,981 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:36,087 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:36,522 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -4.37, '현재가': 8330, '매입금액': 34520, '매매가능수량': 4}
+2022-09-04 09:00:36,988 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:37,138 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:37,545 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 025860 매도 접수 완료 !!
+ {'종목명': '남해화학', '보유수량': 4, '매입가': 10450, '수익률': 0.06, '현재가': 10550, '매입금액': 41800, '매매가능수량': 4}
+2022-09-04 09:00:38,054 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:38,173 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:38,641 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 039610 매도 접수 완료 !!
+ {'종목명': '화성밸브', '보유수량': 2, '매입가': 7140, '수익률': 5.71, '현재가': 7610, '매입금액': 14280, '매매가능수량': 2}
+2022-09-04 09:00:39,106 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:39,239 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:39,722 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -7.57, '현재가': 2625, '매입금액': 19705, '매매가능수량': 7}
+2022-09-04 09:00:40,234 | Kiwoom.py | 293 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-04 09:00:40,384 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD
+2022-09-04 09:00:41,066 | sellSingle_th.py | 85 | DEBUG -> 종목코드 : 117580 매도 접수 완료 !!
+ {'종목명': '대성에너지', '보유수량': 1, '매입가': 13800, '수익률': -5.87, '현재가': 13100, '매입금액': 13800, '매매가능수량': 1}
+2022-09-04 09:21:45,814 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 09:21:45,814 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 09:21:47,306 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 09:21:47,309 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 09:21:47,547 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 09:21:47,549 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 09:21:47,741 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 09:21:47,742 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 09:21:47,743 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 09:21:48,130 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 09:22:25,718 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 09:22:25,726 | db_connecter.py | 170 | DEBUG ->  생성일자 TEXT, 종목코드 TEXT, 종목명 TEXT, 등락률 FLOAT(11), 현재가 FLOAT(11), 시가 FLOAT(11), 저가 FLOAT(11), 고가 FLOAT(11) name,type 인자열 생성완료..!!
+2022-09-04 09:22:25,740 | db_connecter.py | 181 | DEBUG -> universe Table 생성완료..!!
+2022-09-04 09:22:25,918 | db_connecter.py | 217 | DEBUG -> 415개 행 입력완료..!!
+2022-09-04 11:20:44,739 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 11:20:44,739 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 11:20:46,341 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 11:20:46,345 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 11:20:46,566 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 11:20:46,567 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 11:20:46,761 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 11:20:46,762 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 11:20:46,762 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 11:20:47,149 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:14:28,567 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:14:28,568 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:14:30,406 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:14:30,408 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:14:30,632 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:14:30,635 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:14:30,827 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:14:30,829 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:14:30,829 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:14:31,216 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:17:45,724 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:17:45,725 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:17:47,084 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:17:47,087 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:17:47,310 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:17:47,312 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:17:47,504 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:17:47,505 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:17:47,506 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:17:47,893 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:19:44,278 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:19:44,278 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:19:45,693 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:19:45,697 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:19:45,918 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:19:45,920 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:19:46,112 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:19:46,114 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:19:46,114 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:19:46,501 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:25:16,765 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:25:16,765 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:25:18,256 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:25:18,258 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:25:18,481 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:25:18,483 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:25:18,676 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:25:18,678 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:25:18,678 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:25:19,067 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:30:25,715 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:30:25,715 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:30:27,174 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:30:27,178 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:30:27,413 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:30:27,415 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:30:27,608 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:30:27,609 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:30:27,609 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:30:27,998 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:31:38,023 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:31:38,023 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:31:39,333 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:31:39,335 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:31:39,572 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:31:39,574 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:31:39,767 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:31:39,769 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:31:39,769 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:31:40,156 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:33:01,303 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:33:01,304 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:33:02,713 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:33:02,717 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:33:02,938 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:33:02,940 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:33:03,148 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:33:03,149 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:33:03,150 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:33:03,523 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:34:56,524 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:34:56,524 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:34:57,873 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:34:57,876 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:34:58,098 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:34:58,099 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:34:58,292 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:34:58,293 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:34:58,293 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:34:58,682 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:37:15,352 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:37:15,353 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:37:16,641 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:37:16,644 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:37:16,865 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:37:16,868 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:37:17,061 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:37:17,062 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:37:17,062 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:37:17,451 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:39:30,927 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:39:30,927 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:39:32,332 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:39:32,336 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:39:32,558 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:39:32,560 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:39:32,753 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:39:32,754 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:39:32,754 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:39:33,141 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:41:24,916 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:41:24,916 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:41:26,440 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:41:26,442 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:41:26,681 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:41:26,682 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:41:26,875 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:41:26,876 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:41:26,877 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:41:27,266 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 21:53:34,888 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 21:53:34,888 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 21:53:36,402 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 21:53:36,406 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 21:53:36,641 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 21:53:36,643 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 21:53:36,836 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 21:53:36,837 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 21:53:36,838 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 21:53:37,225 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:02:13,903 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:02:13,903 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:02:15,339 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:02:15,341 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:02:15,578 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:02:15,580 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:02:15,787 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:02:15,789 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:02:15,790 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:02:16,163 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:03:56,023 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:03:56,023 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:03:57,479 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:03:57,482 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:03:57,704 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:03:57,706 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:03:57,898 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:03:57,899 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:03:57,899 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:03:58,287 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:09:01,011 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:09:01,012 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:09:02,432 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:09:02,434 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:09:02,672 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:09:02,673 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:09:02,882 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:09:02,884 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:09:02,884 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:09:03,256 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:21,990 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:11:21,990 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:11:23,337 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:23,339 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:23,561 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:23,563 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:23,756 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:23,758 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:23,758 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:24,146 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:25,118 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:25,134 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:25,409 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:25,471 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:25,726 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:25,786 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:25,801 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:26,281 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:28,109 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:11:28.109948 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:11:28,828 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:28,859 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:29,115 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:29,175 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:29,431 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:29,491 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:29,536 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:29,985 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:31,801 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:11:31.801297 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:11:32,414 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:32,474 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:32,773 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:32,818 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:33,102 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:33,147 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:33,192 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:33,673 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:35,715 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:11:35.715615 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:11:36,467 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:36,527 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:36,842 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:36,872 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:37,186 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:37,231 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:37,231 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:37,624 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:39,275 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:11:39.275967 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:11:39,908 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:39,953 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:40,284 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:40,344 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:40,613 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:40,673 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:40,688 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:41,166 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:11:43,028 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:11:43.028792 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:11:43,679 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:11:43,693 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:11:43,933 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:11:43,993 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:11:44,277 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:11:44,323 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:11:44,353 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:11:44,834 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:10,297 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:18:10,297 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:18:11,743 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:11,746 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:11,967 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:11,969 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:12,163 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:12,165 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:12,165 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:18:12,552 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:13,558 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:13,617 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:13,844 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:13,903 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:14,174 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:14,234 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:14,249 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:18:14,728 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:16,517 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:18:16.517145 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:18:17,236 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:17,297 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:17,492 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:17,538 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:17,837 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:17,898 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:17,943 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:18:18,378 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:20,078 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:18:20.078031 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:18:20,618 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:20,663 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:20,977 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:21,022 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:21,322 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:21,366 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:21,426 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:18:21,862 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:23,646 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:18:23.646808 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:18:24,321 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:24,365 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:24,680 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:24,725 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:25,010 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:25,040 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:25,070 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:18:25,450 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:18:26,983 | buySingle_th.py | 160 | DEBUG -> 2022-09-04 22:18:26.983878 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:18:27,631 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:18:27,690 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:18:27,930 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:18:27,975 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:18:28,275 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:18:28,336 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:18:28,336 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:20:26,948 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:20:26,948 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:20:28,256 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:20:28,261 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:20:28,495 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:20:28,496 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:20:28,690 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:20:28,692 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:20:28,692 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:20:29,080 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:20:30,037 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:20:30,098 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:20:30,398 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:20:30,413 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:20:30,623 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:20:30,683 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:20:30,742 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:20:31,177 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:21:32,812 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:21:32,812 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:21:34,234 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:21:34,236 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:21:34,459 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:21:34,461 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:21:34,653 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:21:34,655 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:21:34,655 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:21:35,044 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:21:36,166 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:21:36,226 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:21:36,437 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:21:36,452 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:21:36,665 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:21:36,710 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:21:36,756 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:21:37,221 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:23:48,400 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:23:48,401 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:23:49,759 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:23:49,761 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:23:49,983 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:23:49,985 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:23:50,178 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:23:50,179 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:23:50,180 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:23:50,569 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:23:51,652 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:23:51,756 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:23:52,026 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:23:52,101 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:23:52,370 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:23:52,431 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:23:52,506 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:23:52,881 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:24:51,584 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:24:51,630 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:24:51,875 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:24:51,965 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:24:52,257 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:24:52,318 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:24:52,364 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:24:52,806 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:25:51,778 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:25:51,869 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:25:52,153 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:25:52,275 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:25:52,517 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:25:52,592 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:25:52,622 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:25:53,016 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:26:51,631 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:26:51,692 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:26:52,075 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:26:52,151 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:26:52,436 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:26:52,526 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:26:52,586 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:26:52,936 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:27:51,506 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:27:51,567 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:27:51,793 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:27:51,853 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:27:52,123 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:27:52,244 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:27:52,335 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:27:52,730 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:28:04,204 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:28:04,205 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:28:05,628 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:28:05,630 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:28:05,852 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:28:05,853 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:28:06,047 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:28:06,047 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:28:06,048 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:28:06,435 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:28:06,795 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:28:06.795042 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:28:56,106 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:28:56,106 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:28:57,310 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:28:57,312 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:28:57,537 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:28:57,539 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:28:57,732 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:28:57,733 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:28:57,734 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:28:58,122 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:28:58,555 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:28:58.555999 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:28:59,844 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:29:00,040 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:29:00,315 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:29:00,539 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:29:00,810 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:29:00,841 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:29:00,916 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:29:01,369 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:30:52,296 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:30:52,296 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:30:53,635 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:30:53,638 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:30:53,875 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:30:53,876 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:30:54,070 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:30:54,072 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:30:54,072 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:30:54,461 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:30:54,820 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:30:54.820473 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:35:36,131 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:35:36,131 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:35:37,507 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:35:37,509 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:35:37,746 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:35:37,749 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:35:37,941 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:35:37,943 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:35:37,943 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:35:38,331 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:35:38,675 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:35:38.675175 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:40:51,630 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:40:51,631 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:40:52,928 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:40:52,930 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:40:53,168 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:40:53,170 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:40:53,377 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:40:53,379 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:40:53,379 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:40:53,751 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:40:54,081 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:40:54.081342 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:44:16,622 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:44:16,622 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:44:17,953 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:44:17,957 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:44:18,177 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:44:18,179 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:44:18,371 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:44:18,373 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:44:18,373 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:44:18,760 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:44:19,121 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:44:19.121237 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:46:27,323 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:46:27,323 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:46:28,660 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:46:28,663 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:46:28,884 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:46:28,886 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:46:29,079 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:46:29,080 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:46:29,081 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:46:29,468 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:46:29,827 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:46:29.827384 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:51:03,722 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:51:03,722 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:51:05,145 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:51:05,147 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:51:05,370 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:51:05,372 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:51:05,565 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:51:05,566 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:51:05,567 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:51:05,954 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:51:06,358 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:51:06.358490 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:52:18,827 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:52:18,827 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:52:20,155 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:52:20,158 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:52:20,381 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:52:20,383 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:52:20,576 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:52:20,577 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:52:20,578 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:52:20,966 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:52:21,259 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:52:21.259658 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:53:26,717 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:53:26,717 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:53:28,062 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:53:28,064 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:53:28,302 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:53:28,305 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:53:28,496 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:53:28,497 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:53:28,498 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:53:28,885 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:53:29,215 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:53:29.215850 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:56:31,589 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:56:31,589 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:56:32,887 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:56:32,889 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:56:33,127 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:56:33,129 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:56:33,321 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:56:33,323 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:56:33,324 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:56:33,711 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:56:34,012 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:56:34.012172 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 22:56:35,155 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:56:35,244 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:56:35,560 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:56:35,634 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:56:35,919 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:56:36,053 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:56:36,173 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:56:36,532 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:59:56,792 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 22:59:56,793 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 22:59:58,576 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 22:59:58,578 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 22:59:58,800 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 22:59:58,802 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 22:59:58,995 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 22:59:58,997 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 22:59:58,997 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 22:59:59,384 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 22:59:59,758 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 22:59:59.758096 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:02:20,243 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:02:20,243 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:02:21,593 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:02:21,596 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:02:21,818 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:02:21,820 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:02:22,012 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:02:22,013 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:02:22,013 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:02:22,401 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:02:22,791 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:02:22.791489 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:05:25,627 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:05:25,627 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:05:27,035 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:05:27,037 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:05:27,259 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:05:27,261 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:05:27,454 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:05:27,455 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:05:27,456 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:05:27,844 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:05:28,219 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:05:28.219248 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:07:30,478 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:07:30,478 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:07:31,936 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:07:31,938 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:07:32,161 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:07:32,163 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:07:32,355 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:07:32,356 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:07:32,357 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:07:32,744 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:07:33,118 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:07:33.118602 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:10:20,906 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:10:20,906 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:10:22,319 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:10:22,322 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:10:22,559 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:10:22,561 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:10:22,753 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:10:22,754 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:10:22,755 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:10:23,143 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:10:23,519 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:10:23.519958 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:11:41,849 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:11:41,850 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:11:43,249 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:11:43,251 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:11:43,488 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:11:43,490 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:11:43,684 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:11:43,686 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:11:43,686 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:11:44,075 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:11:44,418 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:11:44.418374 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:13:01,389 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:13:01,389 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:13:02,780 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:13:02,782 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:13:03,004 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:13:03,006 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:13:03,214 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:13:03,215 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:13:03,216 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:13:03,588 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:13:03,963 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:13:03.963409 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:13:30,336 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:13:30,337 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:13:31,809 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:13:31,813 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:13:32,048 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:13:32,050 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:13:32,258 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:13:32,260 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:13:32,260 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:13:32,633 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:13:32,991 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:13:32.991126 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:14:59,326 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:14:59,327 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:15:00,807 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:15:00,809 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:15:01,046 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:15:01,048 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:15:01,241 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:15:01,242 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:15:01,243 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:15:01,631 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:15:01,974 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:15:01.974498 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:17:55,931 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:17:55,932 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:17:57,381 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:17:57,385 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:17:57,621 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:17:57,623 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:17:57,816 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:17:57,818 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:17:57,818 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:17:58,206 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:17:58,579 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:17:58.579024 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:20:49,755 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:20:49,755 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:20:51,144 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:20:51,146 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:20:51,371 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:20:51,373 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:20:51,580 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:20:51,581 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:20:51,582 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:20:51,955 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:20:52,271 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:20:52.271784 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:20:53,202 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:20:53,337 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:20:53,592 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:20:53,637 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:20:54,012 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:20:54,176 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:20:54,236 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:20:54,704 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:21:34,624 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:21:34,624 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:21:35,985 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:21:35,988 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:21:36,224 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:21:36,226 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:21:36,404 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:21:36,406 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:21:36,406 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:21:36,793 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:21:37,123 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:21:37.123476 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:23:03,002 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:23:03,003 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:23:04,427 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:23:04,431 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:23:04,651 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:23:04,653 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:23:04,846 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:23:04,848 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:23:04,849 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:23:05,235 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:23:05,728 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:23:05.728675 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:23:06,611 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:23:06,671 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:23:06,940 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:23:07,060 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:23:07,404 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:23:07,434 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:23:07,493 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:23:07,944 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:24:05,817 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:24:05.817966 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:24:06,760 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:24:06,880 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:24:07,179 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:24:07,254 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:24:07,598 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:24:07,703 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:24:07,748 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:24:08,139 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:24:54,888 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:24:54,889 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:24:56,388 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:24:56,392 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:24:56,612 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:24:56,614 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:24:56,808 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:24:56,809 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:24:56,810 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:24:57,198 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:24:57,634 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:24:57.634164 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:24:58,729 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:24:58,833 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:24:59,283 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:24:59,403 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:24:59,838 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:24:59,928 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:25:00,003 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:25:00,440 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:25:57,660 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:25:57.660974 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:25:58,711 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:25:58,831 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:25:59,102 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:25:59,222 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:25:59,479 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:25:59,658 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:25:59,718 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:26:00,123 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:27:59,343 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:27:59,343 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:28:00,769 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:28:00,772 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:28:00,993 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:28:00,995 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:28:01,188 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:28:01,189 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:28:01,190 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:28:01,579 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:28:01,999 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:28:01.999230 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:28:02,676 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:28:02,797 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:28:03,232 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:28:03,366 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:28:03,711 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:28:03,876 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:28:03,921 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:28:04,386 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:29:02,000 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:29:02.000890 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:29:02,751 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:29:02,812 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:29:03,113 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:29:03,234 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:29:03,624 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:29:03,789 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:29:03,880 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:29:04,344 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:31:22,027 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:31:22,028 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:31:23,384 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:31:23,387 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:31:23,609 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:31:23,611 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:31:23,803 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:31:23,804 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:31:23,805 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:31:24,192 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:31:24,627 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:31:24.627407 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:31:25,523 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:31:25,687 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:31:26,017 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:31:26,092 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:31:26,452 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:31:26,647 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:31:26,736 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:31:27,156 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:32:24,651 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:32:24.651230 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:32:25,180 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:32:25,302 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:32:25,563 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:32:25,580 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:32:25,792 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:32:25,881 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:32:25,986 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:32:26,436 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:33:12,870 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:33:12,870 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:33:14,291 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:33:14,293 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:33:14,516 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:33:14,518 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:33:14,725 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:33:14,727 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:33:14,728 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:33:15,099 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:33:15,503 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:33:15.503763 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:33:16,177 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:33:16,238 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:33:16,899 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:33:16,974 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:33:17,319 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:33:17,409 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:33:17,648 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:33:17,708 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:33:17,768 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:33:18,251 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:34:15,513 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:34:15.513154 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:34:16,293 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:34:16,413 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:34:16,802 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:34:16,967 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:34:17,266 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:34:17,416 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:34:17,535 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:34:17,999 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:34:22,386 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:34:22,416 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:35:15,513 | buySingle_th.py | 161 | DEBUG -> 2022-09-04 23:35:15.513630 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0009968280792236328
+2022-09-04 23:35:16,373 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:35:16,537 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:35:16,911 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:35:17,046 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:35:17,286 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:35:17,375 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:35:17,435 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:35:17,945 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:35:22,148 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:35:22,152 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:36:01,474 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:36:01,475 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:36:02,954 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:36:02,956 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:36:03,193 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:36:03,195 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:36:03,388 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:36:03,390 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:36:03,390 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:36:03,778 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:36:04,151 | buySingle_th.py | 162 | DEBUG -> 2022-09-04 23:36:04.151514 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:36:45,278 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:36:45,278 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:36:46,813 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:36:46,815 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:36:47,052 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:36:47,054 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:36:47,261 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:36:47,263 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:36:47,263 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:36:47,636 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:36:48,041 | buySingle_th.py | 162 | DEBUG -> 2022-09-04 23:36:48.041915 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:41:39,937 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:41:39,937 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:41:42,041 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:41:42,046 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:41:42,282 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:41:42,284 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:41:42,477 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:41:42,479 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:41:42,479 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:41:42,865 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:41:43,341 | buySingle_th.py | 162 | DEBUG -> 2022-09-04 23:41:43.341948 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0
+2022-09-04 23:42:03,423 | Kiwoom.py | 51 | DEBUG -> connected
+2022-09-04 23:42:03,423 | Kiwoom.py | 84 | DEBUG -> 8026928411,8026928411;
+2022-09-04 23:42:04,755 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-04 23:42:04,758 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opt10075_req / opt10075
+2022-09-04 23:42:04,980 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-04 23:42:04,982 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00018_req / opw00018
+2022-09-04 23:42:05,190 | Kiwoom.py | 292 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-04 23:42:05,192 | Kiwoom.py | 137 | DEBUG -> [Kiwoom] _on_receive_tr_data is called 0002 / opw00001_req / opw00001
+2022-09-04 23:42:05,192 | Kiwoom.py | 169 | DEBUG -> 실제예수금 : 841297
+2022-09-04 23:42:05,565 | db_connecter.py | 190 | DEBUG -> insert_df_to_db 시작
+2022-09-04 23:42:05,894 | buySingle_th.py | 162 | DEBUG -> 2022-09-04 23:42:05.894941 buy_signal_thread 실행중입니다.
+buy_signal_thread 처리시간 :0.0

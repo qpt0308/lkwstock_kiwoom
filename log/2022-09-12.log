@@ -1,0 +1,648 @@
+2022-09-12 22:55:23,954 | Kiwoom_A.py | 67 | DEBUG -> connected
+2022-09-12 22:55:26,069 | Kiwoom_A.py | 111 | DEBUG -> 8026928411,8026928411;
+2022-09-12 22:55:39,318 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-12 22:55:39,377 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-12 22:55:39,438 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-12 22:55:39,443 | Kiwoom_A.py | 260 | DEBUG -> 실제예수금 : 778924
+2022-09-12 22:56:19,289 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:19,519 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:19,532 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:19,749 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:19,773 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:19,975 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:20,001 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:20,194 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:20,212 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:20,422 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:20,455 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:20,670 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:20,702 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:20,898 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:20,929 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:21,166 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:21,166 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:21,432 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:21,662 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:21,688 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:21,902 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:21,928 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:22,143 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:22,169 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:22,378 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:22,410 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:22,602 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:22,622 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:22,832 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:22,848 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:23,052 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:23,074 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:23,283 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:23,283 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:23,315 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:23,529 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:23,542 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:23,732 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:23,753 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:23,801 | realData_th.py | 87 | DEBUG -> 2022-09-12 22:56:23.519677 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 22:56:23,803 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 22:56:23.803918realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 22:56:23,938 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:23,964 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:24,178 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:24,204 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:24,421 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:24,447 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:24,652 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:24,672 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:24,895 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:24,931 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:25,124 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:25,125 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:25,157 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:25,382 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:25,415 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:25,614 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:25,644 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:25,899 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:25,934 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:26,146 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:26,174 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:26,436 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:26,478 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:26,708 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:26,722 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:26,966 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:27,007 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:27,251 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:27,251 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:27,283 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:27,495 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:27,522 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:27,719 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:27,734 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:27,940 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:27,958 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:28,162 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:28,183 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:28,398 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:28,425 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:28,638 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:28,655 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:28,863 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:28,883 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:29,116 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:29,117 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:29,144 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:29,359 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:29,385 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:29,593 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:29,614 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:29,826 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:29,858 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:30,061 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:30,089 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:30,306 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:30,335 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:30,561 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:30,576 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:30,813 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:30,834 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:31,050 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:31,051 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:31,091 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:31,299 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:31,334 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:31,552 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:31,578 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:31,777 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:31,794 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:32,021 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:32,053 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:32,259 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:32,281 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:32,492 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:32,511 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:32,756 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:32,773 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:32,989 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:32,989 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:33,018 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:33,227 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:33,250 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:33,463 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:33,490 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:33,690 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:33,758 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:33,995 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:34,022 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:34,267 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:34,293 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:34,533 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:34,553 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:34,773 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:34,809 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:34,996 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:34,996 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:35,023 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:35,251 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:35,267 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:35,477 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:35,493 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:35,699 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:35,720 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:35,938 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:35,961 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:36,163 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:36,189 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:36,400 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:36,429 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:36,787 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:36,811 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:37,033 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:37,033 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:37,069 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:37,264 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:37,280 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:37,499 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:37,523 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:37,740 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:37,755 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:37,981 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:38,010 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:38,211 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:38,240 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:38,449 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:38,469 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:38,681 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:38,712 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:38,923 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:38,923 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:38,955 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:39,223 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:39,249 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:39,458 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:39,479 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:39,685 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:39,711 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:39,926 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:39,941 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:40,160 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:40,184 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:40,398 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:40,426 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:40,626 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:40,654 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:40,854 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:40,854 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:40,883 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:41,110 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:41,127 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:41,343 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:41,369 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:41,595 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:41,626 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:41,828 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:41,852 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:42,061 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:42,078 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:42,288 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:42,308 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:42,531 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:42,572 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:42,770 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:42,770 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:42,802 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:43,012 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:43,031 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:43,257 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:43,289 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:43,492 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:43,517 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:43,709 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:43,735 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:43,977 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:44,012 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:44,262 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:44,289 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:44,498 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:44,517 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:44,736 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:44,736 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:44,763 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:44,981 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:45,007 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:45,211 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:45,238 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:45,455 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:45,483 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:45,687 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:45,713 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:45,931 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:45,960 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:46,167 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:46,186 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:46,400 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:46,416 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:46,628 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:46,629 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:46,673 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:46,869 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:46,888 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:47,107 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:47,132 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:47,345 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:47,359 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:47,578 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:47,602 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:47,798 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:47,816 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:48,037 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:48,057 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:48,302 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:48,328 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:48,541 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:48,541 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:48,584 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:48,783 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:48,813 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:49,013 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:49,039 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:49,407 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:49,447 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:49,646 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:49,662 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:49,885 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:49,906 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:50,134 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:50,150 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:50,376 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:50,393 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:50,619 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:50,619 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:50,652 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:50,868 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:50,896 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:51,104 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:51,124 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:51,360 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:51,380 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:51,584 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:51,609 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:51,826 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:51,855 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:52,056 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:52,082 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:52,282 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:52,302 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:52,526 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:52,526 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:52,567 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:52,768 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:52,794 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:53,007 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:53,038 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:53,244 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:53,269 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:53,484 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:53,513 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:53,726 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:53,756 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:53,958 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:53,984 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:54,234 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:54,260 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:54,478 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:54,479 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:54,519 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:54,733 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:54,751 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:54,970 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:54,988 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:55,202 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:55,219 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:55,451 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:55,479 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:55,675 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:55,690 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:55,904 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:55,933 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:56,164 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:56,206 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:56,402 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:56,402 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:56,431 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:56,662 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:56,688 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:56,901 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:56,930 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:57,138 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:57,157 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:57,371 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:57,399 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:57,629 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:57,655 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:57,863 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:57,896 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:58,115 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:56:58,138 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:58,386 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:56:58,387 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:56:58,414 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:58,702 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:56:58,718 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:58,945 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:56:58,977 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:59,180 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:56:59,206 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:59,424 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:56:59,450 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:59,681 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:56:59,707 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:56:59,909 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:56:59,935 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:00,156 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:57:00,178 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:00,455 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:57:00,456 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:57:00,486 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:00,707 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:57:00,735 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:00,956 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:57:00,987 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:01,219 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:57:01,245 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:01,504 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:57:01,532 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:01,763 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:57:01,789 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:02,003 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:57:02,030 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:02,249 | execution_main.py | 429 | DEBUG -> 종목코드 : 270520 매도 접수 완료 !!
+ {'종목명': '지엔원에너지', '보유수량': 12, '매입가': 3005, '수익률': -6.68, '현재가': 2830, '매입금액': 36060, '매매가능수량': 12}
+2022-09-12 22:57:02,274 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:02,481 | execution_main.py | 429 | DEBUG -> 종목코드 : 317830 매도 접수 완료 !!
+ {'종목명': '에스피시스템스', '보유수량': 2, '매입가': 10100, '수익률': -4.33, '현재가': 9750, '매입금액': 20200, '매매가능수량': 2}
+2022-09-12 22:57:02,482 | execution_main.py | 377 | DEBUG -> 초기화 매도 주문  총 8개 보유종목중  8 개 접수완료..!! 
+2022-09-12 22:57:02,516 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:02,740 | execution_main.py | 429 | DEBUG -> 종목코드 : 020120 매도 접수 완료 !!
+ {'종목명': '키다리스튜디오', '보유수량': 4, '매입가': 8630, '수익률': -5.98, '현재가': 8190, '매입금액': 34520, '매매가능수량': 4}
+2022-09-12 22:57:02,761 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:02,984 | execution_main.py | 429 | DEBUG -> 종목코드 : 023350 매도 접수 완료 !!
+ {'종목명': '한국종합기술', '보유수량': 2, '매입가': 8580, '수익률': -8.2, '현재가': 7950, '매입금액': 17160, '매매가능수량': 2}
+2022-09-12 22:57:03,020 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:03,233 | execution_main.py | 429 | DEBUG -> 종목코드 : 073010 매도 접수 완료 !!
+ {'종목명': '케이에스피', '보유수량': 7, '매입가': 2815, '수익률': -13.25, '현재가': 2465, '매입금액': 19705, '매매가능수량': 7}
+2022-09-12 22:57:03,250 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:03,483 | execution_main.py | 429 | DEBUG -> 종목코드 : 119500 매도 접수 완료 !!
+ {'종목명': '포메탈', '보유수량': 10, '매입가': 4905, '수익률': -6.9, '현재가': 4610, '매입금액': 49050, '매매가능수량': 10}
+2022-09-12 22:57:03,508 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:03,736 | execution_main.py | 429 | DEBUG -> 종목코드 : 204450 매도 접수 완료 !!
+ {'종목명': 'KODEX 차이나H레버리지(H)', '보유수량': 7, '매입가': 2320, '수익률': -3.42, '현재가': 2255, '매입금액': 16240, '매매가능수량': 7}
+2022-09-12 22:57:03,770 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 1001 / send_sell_order / KOA_NORMAL_SELL_KP_ORD / [RC4010] 모의투자 영업일이 아닙니다.
+2022-09-12 22:57:03,973 | execution_main.py | 429 | DEBUG -> 종목코드 : 226320 매도 접수 완료 !!
+ {'종목명': '잇츠한불', '보유수량': 1, '매입가': 16200, '수익률': -3.62, '현재가': 15750, '매입금액': 16200, '매매가능수량': 1}
+2022-09-12 22:58:21,876 | Kiwoom_A.py | 67 | DEBUG -> connected
+2022-09-12 22:58:23,489 | Kiwoom_A.py | 111 | DEBUG -> 8026928411,8026928411;
+2022-09-12 22:58:27,002 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-12 22:58:27,062 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-12 22:58:27,107 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-12 22:58:27,109 | Kiwoom_A.py | 260 | DEBUG -> 실제예수금 : 778924
+2022-09-12 22:58:32,692 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 22:58:32.691291realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 22:58:32,923 | realData_th.py | 87 | DEBUG -> 2022-09-12 22:58:32.640428 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 22:59:32,719 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 22:59:32.719570realUniverse_th 실행중입니다.
+ 처리시간 : 0.0009963512420654297
+2022-09-12 22:59:32,878 | realData_th.py | 87 | DEBUG -> 2022-09-12 22:59:32.641266 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 22:59:50,491 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 77.76254224777222$$ 1차 분석완료$$..!!
+2022-09-12 22:59:50,804 | analysis_th.py | 151 | DEBUG -> 2022-09-12 22:59:50.491732 analysis_th 실행중입니다.
+ 처리시간 : 77.76254224777222
+2022-09-12 23:00:34,591 | Kiwoom_A.py | 67 | DEBUG -> connected
+2022-09-12 23:00:36,391 | Kiwoom_A.py | 111 | DEBUG -> 8026928411,8026928411;
+2022-09-12 23:00:39,825 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-12 23:00:39,870 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-12 23:00:39,915 | Kiwoom_A.py | 370 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-12 23:00:39,917 | Kiwoom_A.py | 260 | DEBUG -> 실제예수금 : 778924
+2022-09-12 23:00:45,396 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:00:45.396521realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:00:45,536 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:00:45.274847 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:01:45,346 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:01:45.346587realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:01:45,496 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:01:45.275777 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0009965896606445312
+2022-09-12 23:02:04,952 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 79.82846283912659$$ 1차 분석완료$$..!!
+2022-09-12 23:02:05,218 | analysis_th.py | 151 | DEBUG -> 2022-09-12 23:02:04.953709 analysis_th 실행중입니다.
+ 처리시간 : 79.82846283912659
+2022-09-12 23:02:45,366 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:02:45.366606realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:02:45,507 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:02:45.275848 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0009970664978027344
+2022-09-12 23:03:27,979 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 82.76008105278015$$ 2차 분석완료$$..!!
+2022-09-12 23:03:28,218 | analysis_th.py | 151 | DEBUG -> 2022-09-12 23:03:27.979080 analysis_th 실행중입니다.
+ 처리시간 : 82.76008105278015
+2022-09-12 23:03:45,353 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:03:45.353257realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:03:45,500 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:03:45.276462 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:04:45,339 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:04:45.339249realUniverse_th 실행중입니다.
+ 처리시간 : 0.0009965896606445312
+2022-09-12 23:04:45,496 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:04:45.277415 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0009982585906982422
+2022-09-12 23:04:48,898 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 80.6803731918335$$ 3차 분석완료$$..!!
+2022-09-12 23:04:49,140 | analysis_th.py | 151 | DEBUG -> 2022-09-12 23:04:48.898811 analysis_th 실행중입니다.
+ 처리시간 : 80.6803731918335
+2022-09-12 23:05:45,343 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:05:45.343864realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:05:45,503 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:05:45.278042 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.00099945068359375
+2022-09-12 23:06:12,651 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 83.5103714466095$$ 4차 분석완료$$..!!
+2022-09-12 23:06:12,890 | analysis_th.py | 151 | DEBUG -> 2022-09-12 23:06:12.651534 analysis_th 실행중입니다.
+ 처리시간 : 83.5103714466095
+2022-09-12 23:06:45,363 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:06:45.363330realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:06:45,532 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:06:45.278557 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.000997304916381836
+2022-09-12 23:07:40,006 | analysis_th.py | 144 | DEBUG -> $$분석시간$$ : 87.11551070213318$$ 5차 분석완료$$..!!
+2022-09-12 23:07:40,278 | analysis_th.py | 151 | DEBUG -> 2022-09-12 23:07:40.007402 analysis_th 실행중입니다.
+ 처리시간 : 87.11551070213318
+2022-09-12 23:07:45,376 | realUniverse_th.py | 64 | DEBUG -> 2022-09-12 23:07:45.376051realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-12 23:07:45,504 | realData_th.py | 87 | DEBUG -> 2022-09-12 23:07:45.279310 <class 'execution.realData_th.realData_th'> 실행중입니다.
+ 처리시간 : 0.0

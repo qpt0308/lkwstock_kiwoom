@@ -1,0 +1,206 @@
+2022-09-07 23:14:01,319 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:14:01,320 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:14:02,149 | execution_main.py | 46 | DEBUG -> 2022-09-07 23:14:02.149629 main_th 종료되었습니다.!!
+2022-09-07 23:14:02,370 | Kiwoom_A.py | 31 | DEBUG -> 2022-09-07 23:14:02.370040 kiwoom 종료되었습니다.!!
+2022-09-07 23:14:43,893 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:14:43,893 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:14:46,226 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:14:46,277 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:14:46,322 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:14:46,324 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:14:47,309 | realUniverse_th.py | 24 | DEBUG -> 2022-09-07 23:14:47.308381 realUniverse_th 종료되었습니다.!!
+2022-09-07 23:14:47,510 | execution_main.py | 46 | DEBUG -> 2022-09-07 23:14:47.510840 main_th 종료되었습니다.!!
+2022-09-07 23:14:47,752 | Kiwoom_A.py | 31 | DEBUG -> 2022-09-07 23:14:47.752194 kiwoom 종료되었습니다.!!
+2022-09-07 23:17:14,460 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:17:14,461 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:17:16,547 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:17:16,606 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:17:16,649 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:17:16,651 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:24:46,503 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:24:46,503 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:25:21,437 | realUniverse_th.py | 58 | DEBUG -> 현재시간 : 2022-09-07 23:25:21.437555 No data provided
+2022-09-07 23:25:27,413 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:25:27.413329 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:25:27,419 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:25:27.418316realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:25:38,333 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:25:38.333112 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:25:39,950 | analysis_th.py | 150 | DEBUG -> $$분석시간$$ : 0.006981849670410156$$ 1차 분석완료$$..!!
+2022-09-07 23:25:40,182 | analysis_th.py | 156 | DEBUG -> 2022-09-07 23:25:40.182165 analysis_th 실행중입니다.
+ 처리시간 : 0.006981849670410156
+2022-09-07 23:29:11,125 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:29:11,126 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:29:13,025 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:29:13,071 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:29:13,116 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:29:13,118 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:29:51,357 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:29:51.357869 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:29:51,387 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:29:51.386792realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:30:00,045 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:30:00.045743 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:30:51,731 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:30:51.731435 buySignal_th 실행중입니다.
+ 처리시간 :0.000965118408203125
+2022-09-07 23:30:51,907 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:30:51.907929realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:30:59,767 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:30:59.767806 realData_th 실행중입니다.
+ 처리시간 : 0.014960527420043945
+2022-09-07 23:34:41,207 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:34:41,208 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:34:43,154 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:34:43,207 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:34:43,252 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:34:43,254 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:35:18,264 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:35:18.264894realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:35:18,266 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:35:18.266890 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:35:25,091 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:35:25.091680 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:36:18,479 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:36:18.479824 buySignal_th 실행중입니다.
+ 처리시간 :0.0009975433349609375
+2022-09-07 23:36:18,644 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:36:18.644405realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:36:25,646 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:36:25.646259 realData_th 실행중입니다.
+ 처리시간 : 0.029922008514404297
+2022-09-07 23:37:18,460 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:37:18.460288 buySignal_th 실행중입니다.
+ 처리시간 :0.0009970664978027344
+2022-09-07 23:37:18,746 | realUniverse_th.py | 95 | DEBUG -> 2022-09-07 23:37:18.746505realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:37:25,498 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:37:25.498718 realData_th 실행중입니다.
+ 처리시간 : 0.029920578002929688
+2022-09-07 23:38:00,719 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:38:00,719 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:38:02,868 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:38:02,918 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:38:02,963 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:38:02,966 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:38:38,500 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:38:38.500310 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:38:38,508 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:38:38.507291realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:38:46,256 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:38:46.256933 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:39:38,708 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:39:38.708612 buySignal_th 실행중입니다.
+ 처리시간 :0.09478330612182617
+2022-09-07 23:39:38,798 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:39:38.798373realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:39:46,069 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:39:46.069482 realData_th 실행중입니다.
+ 처리시간 : 0.015959739685058594
+2022-09-07 23:40:30,273 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:40:30,274 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:40:32,274 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:40:32,318 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:40:32,363 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:40:32,365 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:41:09,565 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:41:09.565037realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:41:09,626 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:41:09.626871 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:41:20,550 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:41:20.550644 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:44:09,363 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:44:09,363 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:44:11,282 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:44:11,330 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:44:11,375 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:44:11,377 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:44:48,254 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:44:48.254233realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:44:48,255 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:44:48.255230 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:44:55,376 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:44:55.376376 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:45:48,660 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:45:48.660970 buySignal_th 실행중입니다.
+ 처리시간 :0.0009996891021728516
+2022-09-07 23:47:22,205 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:47:22,206 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:47:24,256 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:47:24,302 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:47:24,347 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:47:24,350 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:48:05,077 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:48:05.077045 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:48:05,079 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:48:05.079040realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:48:12,501 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:48:12.501127 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:48:57,286 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:48:57,286 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:48:59,242 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:48:59,294 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:48:59,339 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:48:59,342 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:49:36,786 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:49:36.786195realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:49:36,801 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:49:36.800155 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:49:44,102 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:49:44.102375 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:50:37,065 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:50:37.065366realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:50:37,080 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:50:37.080326 buySignal_th 실행중입니다.
+ 처리시간 :0.0009961128234863281
+2022-09-07 23:50:44,387 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:50:44.387432 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:51:07,813 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:51:07,813 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:51:10,093 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:51:10,147 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:51:10,192 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:51:10,195 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:51:46,794 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:51:46.794770realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:51:46,815 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:51:46.815713 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:52:04,872 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:52:04,873 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:52:07,048 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:52:07,103 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:52:07,148 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:52:07,151 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:52:45,300 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:52:45.300562realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:52:45,368 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:52:45.368380 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:52:54,825 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:52:54.825085 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:53:45,592 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:53:45.592167 buySignal_th 실행중입니다.
+ 처리시간 :0.11971426010131836
+2022-09-07 23:53:45,652 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:53:45.652007realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:53:54,792 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:53:54.792352 realData_th 실행중입니다.
+ 처리시간 : 0.0009946823120117188
+2022-09-07 23:56:36,313 | Kiwoom_A.py | 56 | DEBUG -> connected
+2022-09-07 23:56:36,314 | Kiwoom_A.py | 94 | DEBUG -> 8026928411,8026928411;
+2022-09-07 23:56:38,252 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called  /  /  /  조회가 완료되었습니다.
+2022-09-07 23:56:38,299 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00018_req / opw00018 / [100000] 모의투자 조회완료
+2022-09-07 23:56:38,344 | Kiwoom_A.py | 312 | DEBUG -> [Kiwoom] _on_receive_msg is called 0002 / opw00001_req / opw00001 / [100000] 모의투자 조회완료
+2022-09-07 23:56:38,346 | Kiwoom_A.py | 184 | DEBUG -> 실제예수금 : 728311
+2022-09-07 23:56:43,546 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:56:43.546858realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:56:43,677 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:56:43.677509 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:56:51,650 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:56:51.650689 realData_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:56:54,744 | analysis_th.py | 150 | DEBUG -> $$분석시간$$ : 0.008975982666015625$$ 1차 분석완료$$..!!
+2022-09-07 23:56:54,988 | analysis_th.py | 156 | DEBUG -> 2022-09-07 23:56:54.988758 analysis_th 실행중입니다.
+ 처리시간 : 0.008975982666015625
+2022-09-07 23:57:43,862 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:57:43.862617 buySignal_th 실행중입니다.
+ 처리시간 :0.10571861267089844
+2022-09-07 23:57:44,257 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:57:44.257562realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:57:51,788 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:57:51.788537 realData_th 실행중입니다.
+ 처리시간 : 0.000997781753540039
+2022-09-07 23:57:54,983 | analysis_th.py | 156 | DEBUG -> 2022-09-07 23:57:54.983987 analysis_th 실행중입니다.
+ 처리시간 : 0.00698089599609375
+2022-09-07 23:58:43,779 | buySingle_th.py | 165 | DEBUG -> 2022-09-07 23:58:43.779611 buySignal_th 실행중입니다.
+ 처리시간 :0.0
+2022-09-07 23:58:43,793 | realUniverse_th.py | 98 | DEBUG -> 2022-09-07 23:58:43.793575realUniverse_th 실행중입니다.
+ 처리시간 : 0.0
+2022-09-07 23:58:52,216 | realData_th.py | 88 | DEBUG -> 2022-09-07 23:58:52.215553 realData_th 실행중입니다.
+ 처리시간 : 0.015957355499267578
+2022-09-07 23:58:55,037 | analysis_th.py | 156 | DEBUG -> 2022-09-07 23:58:55.037002 analysis_th 실행중입니다.
+ 처리시간 : 0.014960050582885742
